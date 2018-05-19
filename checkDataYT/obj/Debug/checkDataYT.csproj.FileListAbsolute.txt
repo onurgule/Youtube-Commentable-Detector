@@ -1,0 +1,9 @@
+c:\users\m2hes\documents\visual studio 2017\Projects\checkDataYT\checkDataYT\bin\Debug\checkDataYT.exe.config
+c:\users\m2hes\documents\visual studio 2017\Projects\checkDataYT\checkDataYT\bin\Debug\checkDataYT.exe
+c:\users\m2hes\documents\visual studio 2017\Projects\checkDataYT\checkDataYT\bin\Debug\checkDataYT.pdb
+c:\users\m2hes\documents\visual studio 2017\Projects\checkDataYT\checkDataYT\obj\Debug\checkDataYT.csprojResolveAssemblyReference.cache
+c:\users\m2hes\documents\visual studio 2017\Projects\checkDataYT\checkDataYT\obj\Debug\checkDataYT.Properties.Resources.resources
+c:\users\m2hes\documents\visual studio 2017\Projects\checkDataYT\checkDataYT\obj\Debug\checkDataYT.csproj.GenerateResource.Cache
+c:\users\m2hes\documents\visual studio 2017\Projects\checkDataYT\checkDataYT\obj\Debug\checkDataYT.exe
+c:\users\m2hes\documents\visual studio 2017\Projects\checkDataYT\checkDataYT\obj\Debug\checkDataYT.pdb
+c:\users\m2hes\documents\visual studio 2017\Projects\checkDataYT\checkDataYT\obj\Debug\checkDataYT.frmCheck.resources
